@@ -1,3 +1,7 @@
+# NOTE
+
+This plugin is the precursor of Global Site Data. It has a way simpler interface and fields cannot be added or deleted because they are hardcoded. But it is robust.
+
 # Global Site Data Plugin
 
 A WordPress plugin that allows you to manage global site data fields from a centralized admin page and use them anywhere on your site with simple placeholder syntax.
